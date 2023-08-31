@@ -1,5 +1,7 @@
 # TCG-Fighting-Game
 
+IMPORTENT NOTE: In this repository project developed before in patient project repository. I want to divided my projects in Patient Projects repository
+
 This repository for implementing a TCG mechanics to fighting games
 
 In this repository there is a little tool for controllings all variables in game like deck managment, card's attributes, player and oppoenets health's, hand sizes etc.
